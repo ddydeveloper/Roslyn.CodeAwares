@@ -1,2 +1,2 @@
 # Roslyn.CodeAwares
-The set of code aware rules with Roslyn API
+A set of code aware rules with the Roslyn API
